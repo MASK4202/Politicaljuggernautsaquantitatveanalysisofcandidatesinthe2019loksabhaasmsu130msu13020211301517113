@@ -4,3 +4,5 @@
 DASHBOARD LINK-https://public.tableau.com/views/ANALYSISOFLOKSABHAELECTIONIN2019Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 STORY LINK    -https://public.tableau.com/views/ANALYSISOFLOKSABHAELECTIONIN2019StoryBoard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+VIDEO LINK    -https://youtu.be/1npgR6vHMNs?si=63A0I3rcgY9ccwoG
